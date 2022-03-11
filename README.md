@@ -11,7 +11,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **What will you learn**       | Use images to train a model to be able to perform inference to classify images                                        |
 | **What you'll need**          | Python 3.8+, Visual Studio Code, Git |
 | **Duration**                  | 1 hour                                                                |
-| **Just want to try the app or see the solution?** | [Solution](./solution)                         |
+| **Just want to try the app or see the solution?** | [Solution](https://github.com/ricardoprins/azure-custom-vision-tutorial/tree/solution)                         |
 | **Slides** | [Powerpoint](slides.pptx)
 | **Author** | [Christopher Harrison](https://geektrainer.dev)
 
